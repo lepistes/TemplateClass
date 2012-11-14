@@ -21,6 +21,11 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	paired <int, double> pair1(1, 2.0);
 	pair1.printPaired();
+
+	int a [] = {20, 30};
+	
+	cout<<*a<<endl;
+	//cout<<i<<endl;
 	
 	// Do not remove the the code below (keeps the console open)
 	cin.get();
